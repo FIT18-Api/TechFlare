@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: 'icomoon';
     src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -1222,6 +1223,7 @@ form label {
 #fh5co-event,
 #fh5co-couple-story,
 #fh5co-couple,
+#fh5co-couple2,
 #fh5co-gallery,
 .fh5co-section {
     padding: 5em 0;
@@ -1242,6 +1244,7 @@ form label {
     #fh5co-event,
     #fh5co-couple-story,
     #fh5co-couple,
+    #fh5co-couple2,
     #fh5co-gallery,
     .fh5co-section {
         padding: 3em 0;
@@ -2575,4 +2578,3 @@ body.mobile-nav-active #mobile-nav-toggle i {
     color: white;
     transform: rotateY(180deg);
 }
-/*# sourceMappingURL=style.css.map */
