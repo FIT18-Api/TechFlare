@@ -588,7 +588,7 @@ background-position:center; */
     }
     
     .timeline>li>.timeline-panel .btn-default {
-        background: rgb(108, 0, 134) !important;
+        background: #E1761C !important;
         color: rgb(255, 255, 255);
         font-weight: bold;
         text-transform: uppercase;
@@ -696,7 +696,7 @@ background-position:center; */
         text-transform: uppercase;
         letter-spacing: 2px;
         padding: 10px;
-        background-color: rgb(31, 67, 133);
+        background-color: #E1761C;
         color: white;
         font-weight: bold;
     }
@@ -885,7 +885,7 @@ background-position:center; */
         display: inline-block;
         zoom: 1;
         *display: inline;
-        color: rgb(38, 83, 141);
+        color: #E1761C;
         padding-left: 10px;
         padding-right: 10px;
     }
@@ -1368,7 +1368,7 @@ background-position:center; */
         line-height: 1.5;
         font-weight: bold;
         /*  heading color    */
-        color: rgb(4, 65, 134);
+        color: #E1761C;
         font-family: Arial, serif;
         font-weight: bold;
     }
@@ -2148,7 +2148,7 @@ background-position:center; */
     }
     
     .js .animate-box .btn-default {
-        background: rgb(108, 0, 134) !important;
+        background: #E1761C !important;
         color: rgb(255, 255, 255);
         font-weight: bold;
         text-transform: uppercase;
@@ -2191,7 +2191,7 @@ background-position:center; */
     }
     
     #header #logo h1 a span {
-        color: #19375a;
+        color: #E1761C;
     }
     
     #header #logo img {
