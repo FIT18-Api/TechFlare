@@ -5,8 +5,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
-
 /* =======================================================
 *
 * 	Template Style 
@@ -128,8 +126,6 @@ figure {
         width: 120px
     }
 }
-
-
 /* #page a .js-fh5co-nav-toggle i{
 position: fixed;
 z-index: -1;
@@ -424,19 +420,11 @@ background-position:center; */
     color: #E1761C !important;
 }
 
-.object {
-    height: 500px;
-    position: relative;
-    background-size: cover;
-    background-repeat: no-repeat;
-    opacity: 0.9;
-}
-
-.item {
+/* .item {
     color: rgb(122, 120, 120);
     font-size: 30px;
     font-weight: bold;
-}
+} */
 
 .item-icon {
     font-size: 55px !important;
@@ -676,7 +664,7 @@ background-position:center; */
 }
 
 .timeline>li>.timeline-panel .btn-default {
-    background: rgb(108, 0, 134) !important;
+    background: rgb(218, 203, 6) !important;
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-transform: uppercase;
@@ -784,7 +772,7 @@ background-position:center; */
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 10px;
-    background-color: rgb(31, 67, 133);
+    background-image: linear-gradient(to right, rgb(68, 153, 156), rgb(229, 229, 190));
     color: white;
     font-weight: bold;
 }
@@ -973,7 +961,7 @@ background-position:center; */
     display: inline-block;
     zoom: 1;
     *display: inline;
-    color: rgb(38, 83, 141);
+    color: #E1761C;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -1207,7 +1195,7 @@ form label {
 .simply-countdown>.simply-section .simply-amount,
 .simply-countdown>.simply-section .simply-word {
     display: block;
-    color: rgb(0, 0, 0);
+    color: black;
     /* amounts and words */
 }
 
@@ -1217,7 +1205,7 @@ form label {
 }
 
 .simply-countdown>.simply-section .simply-word {
-    color: rgba(12, 12, 12, 0.7);
+    color: black;
     text-transform: uppercase;
     font-size: 12px;
     /* words */
@@ -1236,7 +1224,7 @@ form label {
 #fh5co-couple,
 #fh5co-gallery,
 .fh5co-section {
-    padding: 3em 0;
+    padding: 5em 0;
     clear: both;
 }
 
@@ -1428,7 +1416,7 @@ html {
     height: 90px;
     font-size: 40px;
     line-height: 40px;
-    color: rgb(45, 71, 129);
+    color: #E1761C;
 }
 
 .feature-center p,
@@ -1456,7 +1444,7 @@ html {
     line-height: 1.5;
     font-weight: bold;
     /*  heading color    */
-    color: rgb(4, 65, 134);
+    color: #E1761C;
     font-family: Arial, serif;
     font-weight: bold;
 }
@@ -2236,7 +2224,7 @@ html {
 }
 
 .js .animate-box .btn-default {
-    background: rgb(108, 0, 134) !important;
+    background: rgb(218, 203, 6) !important;
     color: rgb(255, 255, 255);
     font-weight: bold;
     text-transform: uppercase;
@@ -2291,8 +2279,6 @@ html {
     background: rgba(209, 68, 68, 0.7);
     box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
 }
-
-
 /* Nav Menu Essentials */
 
 .nav-menu,
@@ -2332,8 +2318,6 @@ html {
 .nav-menu ul li {
     min-width: 180px;
 }
-
-
 /* Nav Menu Arrows */
 
 .sf-arrows .sf-with-ul {
@@ -2353,8 +2337,6 @@ html {
 .sf-arrows ul .sf-with-ul:after {
     content: "\f105";
 }
-
-
 /* Nav Meu Container */
 
 #nav-menu-container {
@@ -2367,8 +2349,6 @@ html {
         display: none;
     }
 }
-
-
 /* Nav Meu Styling */
 
 .nav-menu a {
@@ -2421,8 +2401,6 @@ html {
 .nav-menu ul ul {
     margin: 0;
 }
-
-
 /* Mobile Nav Toggle */
 
 #mobile-nav-toggle {
@@ -2450,8 +2428,6 @@ html {
         display: inline;
     }
 }
-
-
 /* Mobile Nav Styling */
 
 #mobile-nav {
@@ -2525,8 +2501,6 @@ html {
     background: rgba(52, 59, 64, 0.9);
     display: none;
 }
-
-
 /* Mobile Nav body classes */
 
 body.mobile-nav-active {
@@ -2601,6 +2575,4 @@ body.mobile-nav-active #mobile-nav-toggle i {
     color: white;
     transform: rotateY(180deg);
 }
-
-
 /*# sourceMappingURL=style.css.map */
