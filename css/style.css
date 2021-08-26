@@ -110,7 +110,7 @@ figure {
 }
 
 .navbackgroud {
-    background-color: rgba(71, 71, 71, 0.8);
+    background-color: rgba(39, 39, 39, 0.8);
 }
 
 @media screen and (max-width: 768px) {
@@ -1228,6 +1228,7 @@ form label {
 #fh5co-couple-story,
 #fh5co-couple,
 #fh5co-couple2,
+#fh5co-couple3,
 #fh5co-gallery,
 .fh5co-section {
     padding: 5em 0;
@@ -1249,6 +1250,7 @@ form label {
     #fh5co-couple-story,
     #fh5co-couple,
     #fh5co-couple2,
+    #fh5co-couple3,
     #fh5co-gallery,
     .fh5co-section {
         padding: 3em 0;
